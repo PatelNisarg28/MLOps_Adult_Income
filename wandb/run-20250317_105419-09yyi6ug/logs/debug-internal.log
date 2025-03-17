@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:54:20.079238+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/nisarg/Documents/JIO INSTITUTE/Quarter4/ML Engineering/mlops-adult-income/wandb/run-20250317_105419-09yyi6ug/logs/debug-core.log"}
+{"time":"2025-03-17T10:54:20.195571+05:30","level":"INFO","msg":"created new stream","id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:20.195686+05:30","level":"INFO","msg":"stream: started","id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:20.19584+05:30","level":"INFO","msg":"handler: started","stream_id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:20.196243+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:20.196294+05:30","level":"INFO","msg":"sender: started","stream_id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:20.623565+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:54:22.226092+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:54:22.226525+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:54:23.231919+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact Logistic_Regression","runtime_seconds":1.00807075},{"desc":"uploading config.yaml","runtime_seconds":0.336763792,"progress":"616B/616B"}],"total_operations":2}}
+{"time":"2025-03-17T10:54:25.177432+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:54:26.556912+05:30","level":"INFO","msg":"stream: closing","id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:26.556973+05:30","level":"INFO","msg":"handler: closed","stream_id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:26.557008+05:30","level":"INFO","msg":"sender: closed","stream_id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:26.557017+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"09yyi6ug"}
+{"time":"2025-03-17T10:54:26.557192+05:30","level":"INFO","msg":"stream: closed","id":"09yyi6ug"}

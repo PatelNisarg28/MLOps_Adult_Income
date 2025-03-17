@@ -1,0 +1,1 @@
+{"Test Recall":0.8527334152334153,"Test F1 Score":0.8484993482827267,"_runtime":1.79654,"_timestamp":1.7421890618723462e+09,"_wandb":{"runtime":2},"Test Precision":0.847266216243074,"Test Accuracy":0.8527334152334153,"_step":0,"CV Accuracy Score":0.8520423642971396}

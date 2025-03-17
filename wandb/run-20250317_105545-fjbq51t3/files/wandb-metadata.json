@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "python": "CPython 3.12.8",
+  "startedAt": "2025-03-17T05:25:45.756172Z",
+  "program": "/Users/nisarg/Documents/JIO INSTITUTE/Quarter4/ML Engineering/mlops-adult-income/Gr-07_Notebook-1.ipynb",
+  "codePath": "Gr-07_Notebook-1.ipynb",
+  "git": {
+    "remote": "https://github.com/PatelNisarg28/MLOps_Adult_Income.git",
+    "commit": "b0c2cccfbca31a4245951fd5a555123e9ff8d0b5"
+  },
+  "email": "nisarg.patel2815@gmail.com",
+  "root": "/Users/nisarg/Documents/JIO INSTITUTE/Quarter4/ML Engineering/mlops-adult-income",
+  "host": "Nisargs-MacBook-Air.local",
+  "executable": "/opt/anaconda3/bin/python",
+  "codePathLocal": "Gr-07_Notebook-1.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "195585355776"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "195585355776"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 16,
+    "swapTotalBytes": "4294967296",
+    "ramTotalBytes": "17179869184"
+  }
+}

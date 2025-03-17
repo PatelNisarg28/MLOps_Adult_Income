@@ -1,0 +1,16 @@
+{"time":"2025-03-17T10:54:48.274329+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/nisarg/Documents/JIO INSTITUTE/Quarter4/ML Engineering/mlops-adult-income/wandb/run-20250317_105448-qodo2ihl/logs/debug-core.log"}
+{"time":"2025-03-17T10:54:48.390125+05:30","level":"INFO","msg":"created new stream","id":"qodo2ihl"}
+{"time":"2025-03-17T10:54:48.390167+05:30","level":"INFO","msg":"stream: started","id":"qodo2ihl"}
+{"time":"2025-03-17T10:54:48.390181+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qodo2ihl"}
+{"time":"2025-03-17T10:54:48.390201+05:30","level":"INFO","msg":"sender: started","stream_id":"qodo2ihl"}
+{"time":"2025-03-17T10:54:48.390212+05:30","level":"INFO","msg":"handler: started","stream_id":"qodo2ihl"}
+{"time":"2025-03-17T10:54:48.775731+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T10:55:39.102858+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T10:55:39.103802+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T10:55:40.111862+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact Support_Vector_Machine","runtime_seconds":1.015263625},{"desc":"uploading output.log","runtime_seconds":0.341343709},{"desc":"uploading wandb-summary.json","runtime_seconds":0.341314583,"progress":"269B/269B"},{"desc":"uploading config.yaml","runtime_seconds":0.026604625,"progress":"626B/626B"}],"total_operations":4}}
+{"time":"2025-03-17T10:55:44.360284+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T10:55:45.741066+05:30","level":"INFO","msg":"stream: closing","id":"qodo2ihl"}
+{"time":"2025-03-17T10:55:45.741185+05:30","level":"INFO","msg":"handler: closed","stream_id":"qodo2ihl"}
+{"time":"2025-03-17T10:55:45.74123+05:30","level":"INFO","msg":"sender: closed","stream_id":"qodo2ihl"}
+{"time":"2025-03-17T10:55:45.741208+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qodo2ihl"}
+{"time":"2025-03-17T10:55:45.741822+05:30","level":"INFO","msg":"stream: closed","id":"qodo2ihl"}
